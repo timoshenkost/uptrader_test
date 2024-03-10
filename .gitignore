@@ -3,3 +3,5 @@
 /Scripts/
 /pyvenv.cfg
 .idea
+menu/__pycache__/
+menu/migrations/__pycache__/
